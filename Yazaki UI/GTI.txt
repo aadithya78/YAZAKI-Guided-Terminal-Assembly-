@@ -1,0 +1,14 @@
+.module-windowpl {
+  border: 1px solid black;
+  height: 600px;
+  background: #ffffff;
+}
+
+
+
+<div class="headerConnector"> <h1 class="connectortxt">Connectors</h1> </div>
+           <div class="headerBins"> <h1 class="Binstxt">Bins</h1> </div>
+
+
+
+<div class="headersyst"> <h1 class="systtxt">Picture Configuration</h1> </div>
